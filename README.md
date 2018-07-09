@@ -7,3 +7,5 @@ Because the thing is free.
 
 https://young-tundra-45885.herokuapp.com/campgrounds
 
+Click on the above link and sign up using a username and password. There is no email authentication yet. After that create your own campground. 
+
