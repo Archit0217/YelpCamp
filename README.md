@@ -6,7 +6,7 @@ https://camp-archit-17.herokuapp.com/
 
 Click on the above link and sign up using a username and password. After logging in, create your own campground. 
 
-Backend - Node.js, Passport.js (Authentication)
-Frontend - Boostrap, HTML, CSS, EJS, jQuery
+Backend - Node.js, Passport.js (Authentication) <br>
+Frontend - Boostrap, HTML, CSS, EJS, jQuery <br>
 Database - MongoDB
 
