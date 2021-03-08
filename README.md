@@ -1,9 +1,12 @@
 # YelpCamp
-A camp-site website with full back-end functionality. 
-V12 is the latest version. 
+A camp-site website with full back-end functionality. V12 is the latest version. 
 The site is available on Heroku.  
 
-https://young-tundra-45885.herokuapp.com
+https://camp-archit-17.herokuapp.com/
 
-Click on the above link and sign up using a username and password. There is no email authentication. After that create your own campground. 
+Click on the above link and sign up using a username and password. After logging in, create your own campground. 
+
+Backend - Node.js, Passport.js (Authentication)
+Frontend - Boostrap, HTML, CSS, EJS, jQuery
+Database - MongoDB
 
