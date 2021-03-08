@@ -1,6 +1,5 @@
 # YelpCamp
-A camp-site website with full back-end functionality. V12 is the latest version. 
-The site is available on Heroku.  
+A camp-site website. V12 is the latest version. The site is available on Heroku.  
 
 https://camp-archit-17.herokuapp.com/
 
